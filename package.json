@@ -1,0 +1,22 @@
+{
+  "name": "wellwedd",
+  "version": "1.0.0",
+  "description": "Studio WellWedd ",
+  "main": "index.html",
+  "scripts": {
+    "test": "wellwedd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "WellWedd"
+  },
+  "keywords": [
+    "WellWedd",
+    "Photography",
+    "studio",
+    "sugam",
+    "sonewane"
+  ],
+  "author": "Sugam Sonewane",
+  "license": "UNLICENSED"
+}
